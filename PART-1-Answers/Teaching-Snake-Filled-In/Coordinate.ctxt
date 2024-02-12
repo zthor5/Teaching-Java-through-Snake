@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Coordinate
+comment1.params=x\ y
+comment1.target=Coordinate(int,\ int)
+comment2.params=x\ y\ orientation
+comment2.target=Coordinate(int,\ int,\ Direction)
+comment3.params=x\ y\ orientation\ type
+comment3.target=Coordinate(int,\ int,\ Direction,\ char)
+comment4.params=type
+comment4.target=Coordinate(char)
+comment4.text=\r\n\ Used\ for\ Searching\r\n
+comment5.params=comparedItem
+comment5.target=boolean\ equals(Coordinate)
+numComments=6

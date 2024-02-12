@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Runner
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sizeOfBoard\ numOfPixels\ startingPos
+comment2.target=void\ startTheGame(int,\ int,\ Coordinate)
+numComments=3
